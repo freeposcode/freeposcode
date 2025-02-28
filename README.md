@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+i developed some free libraries to develop your POS easily. visit my site.
 <!--
 **freeposcode/freeposcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
