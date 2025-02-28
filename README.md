@@ -2,6 +2,9 @@
 
 i developed some free libraries to develop your POS easily. visit my site.
 
+Supported brands:
+- PAX Prolin
+
 libraries:
 - HTTP Client
 - XUI Helper
